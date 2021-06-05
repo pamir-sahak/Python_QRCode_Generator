@@ -1,4 +1,4 @@
-#Python_QR_Generator
+Python_QR_Generator
 
 I made this python application using PYQT5(QT Designer).
 
